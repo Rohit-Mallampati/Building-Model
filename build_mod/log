@@ -1,0 +1,1 @@
+202008032139   0     1     0varun D:\Building\Build_Mod = POW(1.0 - (1.0 - D:\Building\fuzzy_unserd) * (1.0 - D:\Building\fuzzy_exst) * (1.0 - D:\Building\fuzzy_serd) * (1.0 - D:\Building\fuzzy_power), 0.300000) * POW(D:\Building\fuzzy_unserd * D:\Building\fuzzy_exst * D:\Building\fuzzy_serd * D:\Building\fuzzy_power, 1.0 - 0.300000)
